@@ -5,7 +5,9 @@ https://www.coursera.org/learn/python-for-applied-data-science-ai/home/info
 
 Week 1 Learning Objectives
 Demonstrate an understanding of types in python by converting/casting data types: strings, floats, integers.
+
 Interpret variables and solve expressions by applying mathematical operations.
+
 Describe how to manipulate strings by using a variety of methods and operations.
 
 Week 2 Learning Objectives
