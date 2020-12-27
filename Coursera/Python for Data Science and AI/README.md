@@ -30,7 +30,7 @@ In an effort to transition my further career and knowledge, I followed the self-
      1. Analyzing US Economic Data
      
 ### Completion
-  * [Completion]()
+  * [Certificate]()
 
 ### Credits
   * Joseph Santarcangelo
